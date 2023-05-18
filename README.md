@@ -51,3 +51,26 @@
 
 
 11 изображение:
+
+![image](https://github.com/WhiteHodok/AUvTS/assets/39564937/d8c1f219-5c3f-40bb-a80c-f6c2b5abbf14)
+
+
+12 изображение:
+
+![image](https://github.com/WhiteHodok/AUvTS/assets/39564937/9b465136-8cf5-4f6f-b732-c73a3dd8af8e)
+
+
+13 изображение:
+
+![image](https://github.com/WhiteHodok/AUvTS/assets/39564937/1eb82c02-b1ba-4374-9794-ba85a7a56b87)
+
+
+14 изображение:
+
+![image](https://github.com/WhiteHodok/AUvTS/assets/39564937/9c57d202-0314-45d3-bc5e-0015afc3b780)
+
+
+15 изображение:
+
+![image](https://github.com/WhiteHodok/AUvTS/assets/39564937/025a2e41-6d9f-40f6-9b7c-d01784e4c159)
+
